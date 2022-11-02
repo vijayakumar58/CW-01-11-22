@@ -1,0 +1,7 @@
+#example1{
+    word-wrap:break-word;
+    border:dotted 10px;
+    border-spacing: 10px;
+    font-size:15px;
+    background-color:lightblue;
+}
